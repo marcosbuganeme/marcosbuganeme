@@ -1,17 +1,26 @@
-[![Marcos Buganeme github stats](https://github-readme-stats.vercel.app/api?username=marcosbuganeme&show_icons=true&theme=dark&count_private=true&)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbuganeme&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">Welcome!</h1>
 
-<!--
-**marcosbuganeme/marcosbuganeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  My name is Marcos Buganeme and I'm a developer<br/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:marcos.after@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/mail.marcos.after@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.marcos.after@gmail.com"/>
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.linkedin.com/in/marcosbuganeme/">
+    <img src="https://img.shields.io/badge/Marcos%20Buganeme-0e76a8?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/marcosbuganeme/"/>
+  </a>
+
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=marcosbuganeme&label=PROFILE+VIEWS"><br/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcosbuganeme&show_icons=true&theme=radical&count_private=true"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcosbuganeme&theme=radical&hide_border=true"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbuganeme&theme=radical&count_private=true&langs_count=8"><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=marcosbuganeme&theme=radical&margin-w=9&hide_border=true&count_private=true"><br/>
+</p>
