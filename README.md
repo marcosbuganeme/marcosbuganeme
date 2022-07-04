@@ -20,7 +20,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcosbuganeme&show_icons=true&theme=radical&count_private=true"><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcosbuganeme&theme=radical&hide_border=true"><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbuganeme&theme=radical&count_private=true&langs_count=8"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcosbuganeme&theme=radical&hide_border=true"><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcosbuganeme&theme=radical" alt="github statistics marcosbuganeme"><br/>
   <img src="https://github-profile-trophy.vercel.app/?username=marcosbuganeme&theme=radical&margin-w=9&hide_border=true&count_private=true"><br/>
 </p>
