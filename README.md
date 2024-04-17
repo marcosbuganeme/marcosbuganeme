@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=marcosbuganeme&label=PROFILE+VIEWS"><br/>
   </a>
 </p>
-<h1 align="center">Dear Visitor, Welcome to my GitHub profile!</h1>
+<h1 align="center">Welcome to my GitHub profile!</h1>
 <br>
 <p align="center">
   <a href="mailto:molavosbdeveloper@gmail.com" alt="Gmail">
