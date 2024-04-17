@@ -1,12 +1,12 @@
 <h1 align="center">Welcome!</h1>
 
 <p align="center">
-  My name is Marcos Buganeme and I'm a developer<br/>
+  My name is Marcos and I'm a developer<br/>
 </p>
 
 <p align="center">
-  <a href="mailto:marcos.after@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/mail.marcos.after@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.marcos.after@gmail.com"/>
+  <a href="mailto:molavosbdeveloper@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/mail.marcos.after@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.molavosbdeveloper@gmail.com"/>
   </a>
 
   <a href="https://www.linkedin.com/in/marcosbuganeme/">
