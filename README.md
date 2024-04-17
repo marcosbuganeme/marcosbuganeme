@@ -7,7 +7,7 @@
 <br>
 <p align="center">
   <a href="mailto:molavosbdeveloper@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/mail.molavosbdeveloper@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.molavosbdeveloper@gmail.com"/>
+    <img src="https://img.shields.io/badge/molavosbdeveloper@gmail.com-F74141?style=for-the-badge&logoColor=white&logo=gmail&link=mailto:mail.molavosbdeveloper@gmail.com"/>
   </a>
 
   <a href="https://www.linkedin.com/in/marcosbuganeme/">
