@@ -6,6 +6,8 @@
 <br>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F6F4F7&random=false&width=435&lines=My+Name+Is+Marcos+Buganeme" alt="Typing SVG" /></a>
+  <br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=F6F4F7&random=false&width=435&lines=I+Am+A+Software+Engineer" alt="Typing SVG" /></a>
 </p>
 <br>
 <p align="center">
