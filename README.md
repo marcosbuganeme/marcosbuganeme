@@ -3,7 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=marcosbuganeme&label=PROFILE+VIEWS"><br/>
   </a>
 </p>
-<h1 align="center">Welcome to my GitHub profile!</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+Software+Engineer)](https://git.io/typing-svg)
 <br>
 <p align="center">
   <a href="mailto:molavosbdeveloper@gmail.com" alt="Gmail">
