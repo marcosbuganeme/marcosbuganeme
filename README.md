@@ -24,7 +24,7 @@
  I am a software developer with over 10 years of experience. <b>Specializing in Java, JavaScript, Node.js, and TypeScript</b>. 
 </p>
 <p  align="center">
-  I have also been honing my skills in other languages like <b>Go, Python, Rust, Elixir, and Erlang</b> during my spare time. In recent years, I've enhanced my cloud solutions skills, working extensively with AWS and Azure. 
+  I have also been honing my skills in other languages like <b>Go, Python, Rust, Elixir and Erlang</b> during my spare time. In recent years, I've enhanced my cloud solutions skills, working extensively with AWS and Azure. 
 </p>
 <p  align="center">
   My passion for technology and innovation drives me to create effective and scalable solutions, always striving to learn and adapt to new industry trends. Here, you will find projects that demonstrate my technical proficiency and my commitment to development excellence. Thank you for visiting, and I hope my work inspires collaborations and opportunities.
