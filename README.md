@@ -21,7 +21,7 @@
 </p>
 <br>
 <p align="center">
- I am a software developer with over 10 years of experience. <b>Specializing in Java, JavaScript, Node.js, and TypeScript</b>. 
+ I am a software developer with over 12 years of experience. <b>Specializing in Java, JavaScript, Node.js, and TypeScript</b>. 
 </p>
 <p  align="center">
   I have also been honing my skills in other languages like <b>Go, Python, Rust, Elixir and Erlang</b> during my spare time. In recent years, I've enhanced my cloud solutions skills, working extensively with AWS and Azure. 
